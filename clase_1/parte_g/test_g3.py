@@ -1,5 +1,5 @@
 # G3 — Varios casos, varios tests
-from funciones import aprobo
+from clase_1.parte_g.funciones import aprobo
 
 
 def test_aprobo_caso_exitoso():

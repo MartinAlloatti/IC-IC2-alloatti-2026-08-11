@@ -1,5 +1,5 @@
 # G2 — Un test que falla a propósito (descomentar para ver la falla en rojo)
-from funciones import promedio
+from clase_1.parte_g.funciones import promedio
 
 
 def test_falla_intencionada():

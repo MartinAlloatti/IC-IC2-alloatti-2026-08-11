@@ -1,5 +1,5 @@
 # G6 — El caso límite que decidiste en D5
-from funciones import promedio
+from clase_1.parte_g.funciones import promedio
 
 
 def test_promedio_lista_vacia_devuelve_cero():

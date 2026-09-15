@@ -1,5 +1,5 @@
 import os
-from procesador import cargar_peliculas, calcular_estadisticas, ordenar_por_puntaje
+from clase_1.parte_h.procesador import cargar_peliculas, calcular_estadisticas, ordenar_por_puntaje
 
 
 def main():

@@ -1,6 +1,6 @@
 # G7 — Un solo test, varios casos (parametrize)
 import pytest
-from funciones import aprobo
+from clase_1.parte_g.funciones import aprobo
 
 
 @pytest.mark.parametrize(

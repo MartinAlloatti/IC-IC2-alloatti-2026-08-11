@@ -1,5 +1,5 @@
 # G1 — Tu primer test
-from funciones import promedio
+from clase_1.parte_g.funciones import promedio
 
 
 def test_promedio_basico():

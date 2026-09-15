@@ -1,5 +1,5 @@
 # G5 — Testear el caso raro
-from funciones import obtener_campo
+from clase_1.parte_g.funciones import obtener_campo
 
 
 def test_clave_inexistente_retorna_default():

@@ -1,5 +1,5 @@
 # G4 — Testear un diccionario
-from funciones import estadisticas
+from clase_1.parte_g.funciones import estadisticas
 
 
 def test_estadisticas_claves_y_valores():
